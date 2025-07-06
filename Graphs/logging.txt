@@ -1,0 +1,24 @@
+Your Conversation Log:
+User >>> Create a joke on mango
+AI >>> Why did the mango break up with the banana?
+
+Because it said, "I can't see us having a long-term relationship. You're just not ripe for commitment, and I'm going to go find someone who's more... **man-GO-ing** places!"
+
+User >>> Create a joke on cricket
+AI >>> Why did the cricket player bring a ladder to the game?
+
+Because he wanted to get a **leg up** on the competition!
+
+User >>> Create a joke on jam
+AI >>> Why did the strawberry go to therapy?
+
+Because it was feeling a little **jammed up** with emotions!
+
+User >>> Can you tell me the topics on which you generated the jokes
+AI >>> I generated jokes on the following topics:
+
+*   **Mango**
+*   **Cricket**
+*   **Jam**
+
+End of Conversation
