@@ -1,8 +1,19 @@
+pypdf
+requests
+fonttools
+
 pydantic
 ipykernel
 python-dotenv
 
+ddgs
+faiss-cpu
 langchain
 langgraph
+langsmith
 langchain-core
+langchain-community
+sentence-transformers
+langchain-huggingface
 langchain-google-genai
+langchain-text-splitters
